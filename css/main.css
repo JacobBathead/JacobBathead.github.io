@@ -1,0 +1,36 @@
+/*************************
+*******Typography******
+**************************/
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100);
+
+html { background-color: #9AA6AC; } 
+
+body {
+	font-family: Roboto, sans-serif;
+
+  background:;
+	position: relative;
+	font-weight: 400;
+
+	background-color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+	
+}
+
+#topbanner {
+	background-color: #9AA6AC;
+}
+
+#scrollingbar {
+	font-size: x-large;
+	font-family: Roboto, sans-serif;
+  background:;
+	position: relative;
+	font-weight:400px;
+}
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
