@@ -1,11 +1,11 @@
 //Calling the plugin
 $(document).ready(function(){
   $(".owl-carousel").owlCarousel();
- 
-      autoPlay: 3000, //Set AutoPlay to 3 seconds
- 
-      items : 2,
-      itemsDesktop : [690,291],
+    items:2,
+    loop:true,
+    autoplay:true,
+    autoplayTimeout:1000,
+    autoplayHoverPause:true
  
   });
  
