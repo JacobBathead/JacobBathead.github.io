@@ -8,13 +8,14 @@ html { background-color: #9AA6AC; }
 body {
 	font-family: Roboto, sans-serif;
 
+
+
   background:;
 	position: relative;
 	font-weight: 400;
-
 	background-color: white;
-    margin-right: 100px;
-    margin-left: 100px;
+	margin-right: 100px;
+	margin-left: 100px;
 	
 }
 
@@ -39,4 +40,16 @@ body {
 }
 #right {
 	right: 0px
+}
+#about {
+	font-size:18px;
+	text-align: center;
+}
+#phones {
+	display:block;
+	text-align:left;
+	font-size: 18;
+}
+#footer {
+		background-color: #9AA6AC;
 }
